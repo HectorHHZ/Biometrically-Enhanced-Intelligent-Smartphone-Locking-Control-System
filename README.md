@@ -5,7 +5,7 @@ Through investigation, I found that biometric locks on sale in the market are ex
 on the hardware, which is expensive(more than 2000 RMB). Besides, they are not convenienve at all, since each time guests come, the host
 must put their biometrics information on the lock and delete them after guests leave. The right access process is complicated.
 
-So I formed a team to design an intelligent locking control system combining smartphone, hardware lock, and biometric features. 
+So our team design an intelligent locking control system combining smartphone, hardware lock, and biometric features. 
 With our products, users can not only use their biological characteristics, 
 the APP and the specific phone to unlock doors but also authorize the access right and access time to visitors readily. 
 We put the biometrics authentication on the smartphone,
@@ -18,3 +18,4 @@ This repository contains all of the code for the Android application.
 Part of the hardware code is also containing in it.
 I didn't release all the part, since some data encode algorithm is secret for our company.That's it.
 If you want to see the integral application, you can go to another repository and download the ZIP file directly.
+
